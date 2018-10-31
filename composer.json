@@ -1,5 +1,5 @@
 {
-    "name": "AtServer/Sign",
+    "name": "at_server/sign",
     "description": "Sign",
     "license": "MIT",
     "type": "library",
